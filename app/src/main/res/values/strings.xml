@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wabapp</string>
+    <string name="login">เข้าใช้งาน</string>
+    <string name="register">ลงทะเบียน</string>
+    <string name="name">กรุณาใส่ชื่อ นามสกุล</string>
+    <string name="email">กรุณาใส่ email ที่ลงทะเบียนไว้</string>
+    <string name="email_register">กรุณาใส่ email</string>
+    <string name="username">กรุณาใส่ชื่อ Login</string>
+    <string name="password">กรุณาใส่ Password</string>
+    <string name="confirmpassword">กรุณายืนยัน password</string>
+    <string name="welcome">ยินดีต้อนรับ</string>
+    <string name="exit">กดปุ่ม back เพื่อออก</string>
+</resources>
